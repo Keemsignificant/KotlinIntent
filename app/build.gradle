@@ -8,7 +8,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "ws.bams.develop.kotlinintent"
+        applicationId "keem.practice.develop.kotlinintent"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
